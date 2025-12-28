@@ -1,5 +1,5 @@
 #include "button.h"
-#include "hardware.h"
+#include "../hardware.h"
 
 void buttons_init(void) {
     ANSELE &= ~BUTTON; // set RE0 as digital

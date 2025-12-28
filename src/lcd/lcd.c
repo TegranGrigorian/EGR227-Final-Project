@@ -1,7 +1,7 @@
 #include <xc.h>
-#include "lcd.h"
-#include "hardware.h"
-#include "timer.h"
+#include "../lcd/lcd.h"
+#include "../hardware.h"
+#include "../timer/timer.h"
 
 #define _XTAL_FREQ 4000000
 

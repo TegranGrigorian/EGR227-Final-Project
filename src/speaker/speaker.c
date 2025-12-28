@@ -1,6 +1,6 @@
 #include <xc.h>
 #include "speaker.h"
-#include "hardware.h"
+#include "../hardware.h"
 #define _XTAL_FREQ 4000000
 
 void init_speaker(void) { // initalize pins, timer, ccp for pwm

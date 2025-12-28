@@ -3,8 +3,8 @@
 
 #include <xc.h>
 #include <stdint.h>
-#include "state.h"
-#include "servo.h"
+#include "../state/state.h"
+#include "../servo/servo.h"
 
 // Simon Says game constants
 #define SIMON_MAX_SEQUENCE 20

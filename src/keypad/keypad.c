@@ -1,5 +1,5 @@
-#include "keypad.h"
-#include "hardware.h"
+#include "../keypad/keypad.h"
+#include "../hardware.h"
 #include <xc.h>
 #include <stdio.h>
 

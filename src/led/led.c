@@ -1,6 +1,6 @@
 #include "led.h"
-#include "hardware.h"
-#include "timer.h"
+#include "../hardware.h"
+#include "../timer/timer.h"
 #include <stdlib.h>
 
 #define _XTAL_FREQ 4000000

@@ -1,6 +1,6 @@
 #include <xc.h>
 #include "timer.h"
-#include "button.h"
+#include "../button/button.h"
 #define _XTAL_FREQ 4000000
 
 // variables, volitaile for int adn static so they dont get errors for being used outside this file

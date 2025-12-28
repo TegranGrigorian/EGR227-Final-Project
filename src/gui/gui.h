@@ -3,7 +3,7 @@
 
 #include <xc.h>
 #include <stdint.h>
-#include "state.h"
+#include "../state/state.h"
 
 // GUI function prototypes
 void gui_menu_handler(GameState *game); // Main menu state handler

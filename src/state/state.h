@@ -3,7 +3,7 @@
 
 #include <xc.h>
 #include <stdint.h>
-#include "servo.h"
+#include "../servo/servo.h"
 
 // Define system states
 typedef enum {

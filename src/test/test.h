@@ -2,7 +2,7 @@
 #define TEST_H
 
 #include <xc.h>
-#include "state.h"
+#include "../state/state.h"
 
 // Function prototypes for hardware testing
 void test_reset(void); // Reset test state machine

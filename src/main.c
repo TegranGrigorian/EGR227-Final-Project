@@ -3,16 +3,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "state.h"
-#include "lcd.h"
-#include "servo.h"
-#include "button.h"
-#include "keypad.h"
-#include "timer.h"
-#include "speaker.h"
-#include "led.h"
-#include "gui.h"
-#include "servo.h"
+#include "state/state.h"
+#include "lcd/lcd.h"
+#include "servo/servo.h"
+#include "button/button.h"
+#include "keypad/keypad.h"
+#include "timer/timer.h"
+#include "speaker/speaker.h"
+#include "led/led.h"
+#include "gui/gui.h"
+#include "servo/servo.h"
 
 #define _XTAL_FREQ 4000000
 #pragma config WDTE = OFF       

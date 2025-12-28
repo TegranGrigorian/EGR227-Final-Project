@@ -1,13 +1,13 @@
 #include "gui.h"
-#include "hardware.h"
-#include "lcd.h"
-#include "servo.h"
-#include "keypad.h"
-#include "speaker.h"
-#include "led.h"
-#include "state.h"
-#include "simon.h"
-#include "test.h"
+#include "../hardware.h"
+#include "../lcd/lcd.h"
+#include "../servo/servo.h"
+#include "../keypad/keypad.h"
+#include "../speaker/speaker.h"
+#include "../led/led.h"
+#include "../state/state.h"
+#include "../simon/simon.h"
+#include "../test/test.h"
 
 #define _XTAL_FREQ 4000000
 
