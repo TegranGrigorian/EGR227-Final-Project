@@ -1,17 +1,22 @@
 # EGR 227 Final Project
 
+This project is a simple arcade machine using embedded microcontroller **PIC18F56Q71** to run two games: a target shooting game and a Simon Says memory game. The project utilizes various peripherals including buttons, a keypad, an LCD display, RGB LEDs, a servo motor, and a speaker to create an interactive gaming experience. This repository contains the source code, hardware schematics, and documentation for the project. Using this repository a user can build and run the arcade machine on their own hardware setup. 
+
 ## Images of the Project
 ### Project Model in Solidworks
+This is a Solidworks assembly model of the project without any electronical components or wiring; just the 3D printed shells for the project.
 ![Project Model](assets/imgs/model.png)
 
 ### Project In Real Life
-
+This is an image of the completed project with all the electronic components.
 ![Project Image](assets/imgs/20251207_202755.jpg)
 
 ### Electrical Schematic
+This is the electrical schematic of the project created using KICAD.
 ![Schematic Image](assets/imgs/schematic.png)
 
 ### State Diagram
+This is the final state diagram of the project showing all the states and transitions between them.
 ![State Diagram](assets/FINAL-state-diagram.drawio.png)
 
 ## Project Structure
